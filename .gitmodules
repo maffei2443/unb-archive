@@ -1,3 +1,30 @@
 [submodule "TAG1"]
 	path = TAG1
-	url = https://github.com/maffei2443/TAG1
+	url = https://github.com/maffei2443/TAG1.git
+[submodule "TP2_2_2017"]
+	path = TP2_2_2017
+	url = https://github.com/maffei2443/TP2_2_2017.git
+[submodule "trabalho-lp1-2018"]
+	path = trabalho-lp1-2018
+	url = https://github.com/maffei2443/trabalho-lp1-2018.git
+[submodule "trabalho-final-mineracao-texto"]
+	path = trabalho-final-mineracao-texto
+	url = https://github.com/maffei2443/trabalho-final-mineracao-texto.git
+[submodule "idj-trab"]
+	path = idj-trab
+	url = https://github.com/maffei2443/idj-trab.git
+[submodule "tac-bd-2-2018"]
+	path = tac-bd-2-2018
+	url = https://github.com/maffei2443/tac-bd-2-2018.git
+[submodule "fsi-seminarios"]
+	path = fsi-seminarios
+	url = https://github.com/maffei2443/fsi-seminarios.git
+[submodule "trabalhoBD"]
+	path = trabalhoBD
+	url = https://github.com/maffei2443/trabalhoBD.git
+[submodule "unb_tradutores"]
+	path = unb_tradutores
+	url = https://github.com/maffei2443/unb_tradutores.git
+[submodule "Trabalho-HD-OA"]
+	path = Trabalho-HD-OA
+	url = https://github.com/maffei2443/Trabalho-HD-OA.git
